@@ -1,0 +1,11 @@
+{
+  "cSpell.ignoreWords": [
+    "autop",
+    "brom",
+    "browserslist",
+    "chosangho",
+    "gpug",
+    "uglifyify"
+  ],
+  "compile-hero.disable-compile-files-on-did-save-code": true
+}
